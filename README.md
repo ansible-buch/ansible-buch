@@ -1,7 +1,7 @@
 # Sehr geehrte Besucherin, sehr geehrter Besucher,
 
 Sie finden hier Materialien zu meinem Buch
-"Ansible: Das Praxisbuch für Admins und DevOps-Teams",
+"[Ansible: Das Praxisbuch für Admins und DevOps-Teams](https://www.rheinwerk-verlag.de/ansible-das-praxisbuch-fuer-administratoren-und-devops-teams/)",
 erschienen bei Rheinwerk Computing.
 Die zweite Auflage ist seit Mai 2022 erhältlich.
 
