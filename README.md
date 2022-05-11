@@ -5,14 +5,14 @@ Sie finden hier Materialien zu meinem Buch
 erschienen bei Rheinwerk Computing.
 Die zweite Auflage ist seit Mai 2022 erhältlich.
 
-Trotz aller Sorgfalt können sich doch immer wieder einmal Fehler einschleichen, 
-und so manches wird auch einfach von der Zeit überholt.
-Falls Sie solche Unstimmigkeiten bemerken, wäre ich Ihnen sehr dankbar,
-wenn Sie mir eine diesbezügliche E-Mail schreiben würden.
+Ich habe das Material mit viel Sorgfalt zusammengestellt und werde auch
+zukünftige Entwicklungen dort einfließen lassen. Das Material wird daher
+auch Korrekturen und Updates beinhalten. Nutzen Sie die
+[Errata-Liste](ERRATA_2.md),
+wenn Sie Themen aus dem Buch detailliert nachvollziehen möchten &ndash; oder
+werfen Sie spätestens dann einen Blick rein, wenn Sie bemerken, dass
+etwas nicht wie versprochen funktioniert.
 
-Ich versuche, derlei Dinge regelmäßig in die
-[Errata-Liste](ERRATA_2.md) einzupflegen;
-vielleicht schauen Sie also dort einmal hinein, wenn Sie Themen aus dem
-Buch sehr gewissenhaft nachvollziehen möchten &ndash; oder spätestens dann, 
-wenn Sie bemerken, dass etwas nicht wie versprochen funktioniert.
-
+Falls Ihnen Fehler im Buch auffallen oder falls ein Beispiel partout
+nicht laufen will, schreiben Sie mir oder dem Verlag einfach eine Mail:
+<mailto:ansible-buch@am42.de> / <mailto:christoph.meister@rheinwerk-verlag.de>
