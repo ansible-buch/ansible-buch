@@ -15,4 +15,5 @@ etwas nicht wie versprochen funktioniert.
 
 Falls Ihnen Fehler im Buch auffallen oder falls ein Beispiel partout
 nicht laufen will, schreiben Sie mir oder dem Verlag einfach eine Mail:
-<mailto:ansible-buch@am42.de> / <mailto:christoph.meister@rheinwerk-verlag.de>
+[ansible-buch@am42.de](mailto:ansible-buch@am42.de) / [christoph.meister@rheinwerk-verlag.de](christoph.meister@rheinwerk-verlag.de)
+
