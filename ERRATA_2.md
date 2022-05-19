@@ -1,5 +1,20 @@
 # Errata zur zweiten Auflage
 
+## Abschnitt 4.2, S. 66, Listing 4.2
+
+**Fehler/Problem:**
+
+Die gezeigte `.vimrc` führt zu einem gewöhnungsbedürftigen Einrückverhalten
+bei YAML-Dateien:
+Vim rückt in einer neuen Zeile erst einmal unnötig ein, um dann ggf. 
+während des Tippens eines Doppelpunktes wieder "zurückzurücken".
+
+**Abhilfe:** 
+
+Wenn Sie sich daran stören, streichen Sie in der ersten Zeile das Wort
+`indent`. Also nur `filetype on` (oder auch `filetype plugin on`).
+
+
 ## Abschnitt 13.1.1, S. 295 oben
 
 **Fehler/Problem:**
