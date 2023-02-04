@@ -15,6 +15,15 @@ Wenn Sie sich daran stören, streichen Sie in der ersten Zeile das Wort
 `indent`. Also nur `filetype on` (oder auch `filetype plugin on`).
 
 
+## Abschnitt 7.2, S. 159 zweiter Absatz
+
+** Fehler:**
+
+Es hat sich ein 'Sie' zuviel eingeschlichen. Es muss heißen:
+
+Sie können eine Modul-Dokumentation auch offline lesen mit dem Befehl:
+
+
 ## Abschnitt 13.1.1, S. 295 oben
 
 **Fehler/Problem:**
