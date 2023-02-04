@@ -17,7 +17,7 @@ Wenn Sie sich daran stören, streichen Sie in der ersten Zeile das Wort
 
 ## Abschnitt 7.2, S. 159 zweiter Absatz
 
-** Fehler:**
+**Fehler:**
 
 Es hat sich ein 'Sie' zuviel eingeschlichen. Es muss heißen:
 
