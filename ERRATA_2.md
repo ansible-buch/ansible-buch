@@ -24,6 +24,25 @@ Es hat sich ein 'Sie' zuviel eingeschlichen. Es muss heißen:
 Sie können eine Modul-Dokumentation auch offline lesen mit dem Befehl:
 
 
+## Abschnitt 7.7, S. 170 unten
+
+**Fehler/Problem:**
+
+Als Beispiel für den Einsatz des `uri`-Moduls wird die Abfrage einer REST-API
+für Chuck Norris-Witze gezeigt. Leider funktioniert diese (Stand Februar 2023)
+nicht mehr wie gewünscht. Chuck Norris ist aber nicht verloren;
+er steht weiterhin z.B. hier zur Verfügung:
+
+```
+- name: Einen Chuck-Norris-Witz besorgen
+  uri:
+    url: https://api.chucknorris.io/jokes/random
+    return_content: yes
+  register: this
+
+- debug: var=this.json.value
+```
+
 ## Abschnitt 13.1.1, S. 295 oben
 
 **Fehler/Problem:**
