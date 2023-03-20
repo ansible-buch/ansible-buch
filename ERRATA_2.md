@@ -15,6 +15,13 @@ Wenn Sie sich daran stören, streichen Sie in der ersten Zeile das Wort
 `indent`. Also nur `filetype on` (oder auch `filetype plugin on`).
 
 
+## Abschnitt 7.1.2, S. 158 unten
+
+**Fehler:**
+
+Der Name des Listings lautet natürlich `meta/main.yml`.
+
+
 ## Abschnitt 7.2, S. 159 zweiter Absatz
 
 **Fehler:**
