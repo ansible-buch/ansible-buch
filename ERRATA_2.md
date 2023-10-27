@@ -68,3 +68,12 @@ Python-Modul:
 sudo apt purge python3-hcloud
 sudo pip3 install hcloud
 ```
+
+## Abschnitt 15.4, S. 329 mitte
+
+**Fehler/Problem:**
+
+Das PowerShell-Skript `ConfigureRemotingForAnsible.ps1` ist auf GitHub
+"umgezogen". Die neue URL lautet:
+
+https://github.com/ansible/ansible-documentation/blob/devel/examples/scripts/ConfigureRemotingForAnsible.ps1
