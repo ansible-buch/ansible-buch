@@ -17,3 +17,10 @@ Falls Ihnen Fehler im Buch auffallen oder falls ein Beispiel partout
 nicht laufen will, schreiben Sie mir oder dem Verlag einfach eine Mail:
 [ansible-buch@am42.de](mailto:ansible-buch@am42.de) / [christoph.meister@rheinwerk-verlag.de](mailto:christoph.meister@rheinwerk-verlag.de)
 
+> :warning: Ich führe heute (16. April 2024) an den untenstehenden Repositorys
+> Wartungsarbeiten durch, um bisherige und zukünftige Entwicklungen besser
+> handhaben zu können. Technisch gesehen möchte ich Branches
+> einführen, die die verschiedenen Auflagen des Buchs widerspiegeln.
+>
+> Vielleicht können Sie also mit dem Herunterladen noch bis morgen warten,
+> oder jedenfalls so lange, bis dieser Hinweis wieder verschwindet :smiley:
