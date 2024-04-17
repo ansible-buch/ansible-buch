@@ -16,3 +16,15 @@ etwas nicht wie versprochen funktioniert.
 Falls Ihnen Fehler im Buch auffallen oder falls ein Beispiel partout
 nicht laufen will, schreiben Sie mir oder dem Verlag einfach eine Mail:
 [ansible-buch@am42.de](mailto:ansible-buch@am42.de) / [christoph.meister@rheinwerk-verlag.de](mailto:christoph.meister@rheinwerk-verlag.de)
+
+> :warning: Achtung:
+>
+> Bei einigen der Repositorys habe ich den Stand der verschiedenen Auflagen
+> mit Branches abgebildet. Der Default-Branch ist zurzeit `2nd-edition`.
+> Für die erste Auflage verwenden Sie entsprechend `1st-edition` (oder
+> ebenfalls `2nd-edition`, wenn es keinen eigenen Branch zur ersten Auflage
+> gibt.)
+>
+> In einem Branch namens `devel` gibt es ggf. einen Ausblick auf zukünftige
+> Entwicklungen; darin finden Sie aber möglicherweise auch Dinge, die
+> überhaupt nicht zu der Version des Buchs passen, das Sie gerade verwenden.
