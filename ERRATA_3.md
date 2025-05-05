@@ -18,3 +18,19 @@ Das machen wir uns auch sogleich mit dem
 
 `flatten-list-loop.yml`: Beispiel einer `with_items`-Schleife über eine
 verschachtelte Liste
+
+
+## Abschnitt 12.3, S. 305, Listing 12.3
+
+**Problem**: Die Einrückung der ersten Zeile ist verloren gegangen.
+Das Keywort `vars` sollte erst nach 6 Spaces kommen:
+
+```yaml
+      vars:
+        # ...
+        animals:
+          - name: Lassie
+            age:  7
+          - name: Kitty
+            age:  9
+```
