@@ -36,7 +36,7 @@ schreiben Sie mir oder dem Verlag einfach eine Mail:
 
 # Dear visitor,
 
-Here you can find downloadable supplements for my book
+here you can find downloadable supplements for my book
 "[Ansible: The Practical Guide for Administrators and DevOps Teams](https://www.sap-press.com/ansible_6068/)",
 published by Rheinwerk Publishing.
 The first edition has been available since July 2025.
